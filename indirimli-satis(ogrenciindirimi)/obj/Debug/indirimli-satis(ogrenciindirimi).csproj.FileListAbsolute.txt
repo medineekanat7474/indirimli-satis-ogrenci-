@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\indirimli-satis(ogrenciindirimi)\indirimli-satis(ogrenciindirimi)\bin\Debug\indirimli-satis(ogrenciindirimi).exe.config
+C:\Users\User\source\repos\indirimli-satis(ogrenciindirimi)\indirimli-satis(ogrenciindirimi)\bin\Debug\indirimli-satis(ogrenciindirimi).exe
+C:\Users\User\source\repos\indirimli-satis(ogrenciindirimi)\indirimli-satis(ogrenciindirimi)\bin\Debug\indirimli-satis(ogrenciindirimi).pdb
+C:\Users\User\source\repos\indirimli-satis(ogrenciindirimi)\indirimli-satis(ogrenciindirimi)\obj\Debug\indirimli-satis(ogrenciindirimi).csproj.AssemblyReference.cache
+C:\Users\User\source\repos\indirimli-satis(ogrenciindirimi)\indirimli-satis(ogrenciindirimi)\obj\Debug\indirimli-satis(ogrenciindirimi).csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\indirimli-satis(ogrenciindirimi)\indirimli-satis(ogrenciindirimi)\obj\Debug\indirimli_satis_ogrenciindirimi_.Form1.resources
+C:\Users\User\source\repos\indirimli-satis(ogrenciindirimi)\indirimli-satis(ogrenciindirimi)\obj\Debug\indirimli_satis_ogrenciindirimi_.Properties.Resources.resources
+C:\Users\User\source\repos\indirimli-satis(ogrenciindirimi)\indirimli-satis(ogrenciindirimi)\obj\Debug\indirimli-satis(ogrenciindirimi).csproj.GenerateResource.cache
+C:\Users\User\source\repos\indirimli-satis(ogrenciindirimi)\indirimli-satis(ogrenciindirimi)\obj\Debug\indirimli-satis(ogrenciindirimi).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\indirimli-satis(ogrenciindirimi)\indirimli-satis(ogrenciindirimi)\obj\Debug\indirimli-satis(ogrenciindirimi).exe
+C:\Users\User\source\repos\indirimli-satis(ogrenciindirimi)\indirimli-satis(ogrenciindirimi)\obj\Debug\indirimli-satis(ogrenciindirimi).pdb
